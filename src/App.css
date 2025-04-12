@@ -1,0 +1,12 @@
+body{
+    background-color: cornsilk;
+    border: 10px solid purple;
+    border-radius: 10px;
+    background-image: url(https://pub-static.fotor.com/assets/bg/c016fa21-f66d-4548-a21f-3cc57370a12d.jpg);
+    height: auto;
+    width: auto;
+    text-align: center;
+    font-size: larger;
+    font-style: oblique;
+    text-align: center;
+}
